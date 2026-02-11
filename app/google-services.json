@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "817287970323",
+    "project_id": "serviwork-1f0e2",
+    "storage_bucket": "serviwork-1f0e2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817287970323:android:7cb5db8a6a75dd6bc1c9e6",
+        "android_client_info": {
+          "package_name": "servi.work"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeljQFqpExdJbDg8jFGmoUPYBa-LA_kAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

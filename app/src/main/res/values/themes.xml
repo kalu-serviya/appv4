@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema oficial del búnker ServiWork - Estándar AppCompat para arranque limpio -->
+    <style name="Theme.ServiWork" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Colores de marca para el arranque -->
+        <item name="android:statusBarColor">#1976D2</item>
+        <item name="android:windowBackground">@android:color/white</item>
+    </style>
+</resources>
